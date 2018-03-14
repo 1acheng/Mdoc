@@ -1,0 +1,19 @@
+<config>
+	<url>http://localhost/mdoc/</url>
+	<title>Mdoc Markdown文档管理系统</title>
+	<description>Mdoc是一款简单纯粹易用的Markdown文档管理软件系统，是个人知识管理、博客以及团队文档协作必备良器。</description>
+	<keywords>Mdoc,markdown,document,manage,software,system,文档,管理,软件,系统,知识管理,博客,团队,协作,网站,简单,纯粹,易用</keywords>
+	<logo_text>Mdoc.VIP</logo_text>
+	<logo_description>简单、纯粹、易用的Markdown文档管理系统</logo_description>
+	<page_item_number>10</page_item_number>
+	<home_star_number>6</home_star_number>
+	<navigation>
+		<item name="home">首页</item>
+		<item name="class">分类</item>
+		<item name="tag">标签</item>
+		<item name="star">星标</item>
+		<item name="archive">归档</item>
+		<item name="about" redirect="http://mdoc.vip/?do=about">关于</item>
+	</navigation>
+	<email>admin@acheng.space</email>
+</config>
