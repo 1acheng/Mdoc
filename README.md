@@ -58,8 +58,6 @@ $$  x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 [Mdoc QQ群]：**7694989**
 
-这些朋友正在采用Mdoc建立博客或知识管理
-- [Whwlsfb's Blog](https://blog.wanghw.cn) Whwlsfb's tech log
 
 下面这些朋友也正在愉快地使用Mdoc！
 
