@@ -54,12 +54,10 @@ $$  x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 ### 联系我
 - **Email**: admin@acheng.space
-- **Phone**: +86 17601018228
 
 [Mdoc QQ群]：**7694989**
 
-
-下面这些朋友也正在愉快地使用Mdoc！
+下面这些朋友正在愉快地使用Mdoc！
 
 | Email     |    Tag   |
 | :-------- | --------:|
@@ -107,3 +105,4 @@ $$  x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 | **ewei2011@gmail.com|1.9 RMB|
 | **sinx@163.com|2.0 RMB|
 | **45947796@qq.com|9.9 RMB|
+| **52259140@qq.com|10 RMB|
